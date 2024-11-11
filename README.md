@@ -7,13 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### 'Install the following packages'
-npm i uuid
-npm i --save @fortawesome/fontawesome-svg-core
-npm i --save @fortawesome/free-solid-svg-icons
-npm i --save @fortawesome/free-regular-svg-icons
-npm i --save @fortawesome/free-brands-svg-icons
-npm i --save @fortawesome/react-fontawesome@latest
-npm install --save-dev @babel/plugin-proposal-private-property-in-object
+npm i uuid // npm i --save @fortawesome/fontawesome-svg-core // npm i --save @fortawesome/free-solid-svg-icons // npm i --save @fortawesome/free-regular-svg-icons // npm i --save @fortawesome/free-brands-svg-icons // npm i --save @fortawesome/react-fontawesome@latest // npm install --save-dev @babel/plugin-proposal-private-property-in-object
 
 ### `npm start`
 
